@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    background-color: olivedrab;
+}
+
+navbar-dark {
+    background-color: olivedrab;
+}
+
+footer {
+    background-color: olivedrab;
+    margin-top: 60px;
+    padding: 30px;
+}
+
+.card-text {
+    color: black;
+}
+
+.album {
+    background-color: rgb(95, 112, 59);
+}
+
+.card-body {
+    background-color: black;
+}
+
+.card-text {
+    color: white;
+    text-align: center;
+}
