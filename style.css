@@ -34,9 +34,10 @@ footer {
     text-align: center;
 }
 
-@media only screen and (max-width: 415px) {
+/* @media only screen and (max-width: 415px) {
     img {
         width: 100%;
         height: auto;
     }
 }
+*/
